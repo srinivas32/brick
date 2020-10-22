@@ -10,6 +10,9 @@
 #
 # version: 0.10.3
 #
+arch:
+    - amd64
+    - ppc64le
 version: ~> 1.0
 language: c
 os: linux
